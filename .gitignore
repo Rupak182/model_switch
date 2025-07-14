@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+
+# Environment variables
+.env
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Project logs
+log.json
+*.log
+
+# Testing
+.pytest_cache/
+
