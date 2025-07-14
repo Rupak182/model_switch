@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": "2025-07-13T23:44:10.830816",
+    "model": "Qwen/Qwen2.5-Coder-32B-Instruct",
+    "prompt": "what is capital of india",
+    "generation_time_seconds": 1.697129487991333,
+    "prompt_tokens": 22,
+    "response_tokens": 8
+  },
+  {
+    "timestamp": "2025-07-13T23:46:05.397705",
+    "model": "Qwen/Qwen2.5-Coder-32B-Instruct",
+    "prompt": "what is LLM",
+    "generation_time_seconds": 1.9192113876342773,
+    "prompt_tokens": 21,
+    "response_tokens": 34
+  },
+  {
+    "timestamp": "2025-07-13T23:52:00.626279",
+    "model": "Qwen/Qwen2.5-Coder-32B-Instruct",
+    "prompt": "what is the captial of france",
+    "generation_time_seconds": 2.7360079288482666,
+    "prompt_tokens": 24,
+    "response_tokens": 7
+  },
+  {
+    "timestamp": "2025-07-13T23:53:37.568627",
+    "model": "deepseek-ai/DeepSeek-V3-0324",
+    "prompt": "what is the captial of france",
+    "generation_time_seconds": 1.9925415515899658,
+    "prompt_tokens": 29,
+    "response_tokens": 8
+  },
+  {
+    "timestamp": "2025-07-13T23:54:17.730437",
+    "model": "deepseek-ai/DeepSeek-V3-0324",
+    "prompt": "what is LLM",
+    "generation_time_seconds": 1.64107346534729,
+    "prompt_tokens": 25,
+    "response_tokens": 26
+  },
+  {
+    "timestamp": "2025-07-13T23:54:38.516287",
+    "model": "deepseek-ai/DeepSeek-V3-0324",
+    "prompt": "what is capital of india",
+    "generation_time_seconds": 1.5959539413452148,
+    "prompt_tokens": 26,
+    "response_tokens": 4
+  },
+  {
+    "timestamp": "2025-07-14T07:36:03.803323",
+    "model": "deepseek-ai/DeepSeek-V3-0324",
+    "prompt": "what is LLM",
+    "generation_time_seconds": 4.836012601852417,
+    "prompt_tokens": 25,
+    "response_tokens": 24
+  },
+  {
+    "timestamp": "2025-07-14T10:19:42.985049",
+    "model": "deepseek-ai/DeepSeek-V3-0324",
+    "prompt": "what is LLM",
+    "generation_time_seconds": 3.745993137359619,
+    "prompt_tokens": 25,
+    "response_tokens": 25
+  },
+  {
+    "timestamp": "2025-07-14T10:19:53.305084",
+    "model": "deepseek-ai/DeepSeek-V3-0324",
+    "prompt": "what is LLM",
+    "generation_time_seconds": 5.265896320343018,
+    "prompt_tokens": 25,
+    "response_tokens": 28
+  }
+]

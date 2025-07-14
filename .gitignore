@@ -9,9 +9,6 @@ venv/
 .venv/
 env/
 
-# Project logs
-log.json
-*.log
 
 # Testing
 .pytest_cache/
