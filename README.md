@@ -1,11 +1,11 @@
-# PromptQue - AI Text Generation API
+# AI Text Generation API With Model Selection
 
 A FastAPI-based application for text generation using Hugging Face models with performance logging.
 
 ## Quick Setup
 
 ### Prerequisites
-- Python 3.8+
+- Python 
 - Hugging Face account and API token
 
 ### Installation
