@@ -37,7 +37,7 @@ A FastAPI-based application for text generation using Hugging Face models with p
 
 ### Example
 ```bash
-curl "http://127.0.0.1:8000/generate?prompt=what is LLM&model=Qwen/Qwen2.5-Coder-32B-Instruct"
+curl "http://127.0.0.1:8000/generate?prompt=what%20is%20LLM&model=Qwen/Qwen2.5-Coder-32B-Instruct"
 ```
 
 ### Important: Use Proper Hugging Face Model Names
